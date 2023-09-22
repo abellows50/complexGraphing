@@ -19,3 +19,4 @@ else:
   os.system(f"python both.py {equation}")
   
 
+ 
